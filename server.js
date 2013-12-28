@@ -1,6 +1,6 @@
 /**
  * Introduction to Human-Computer Interaction
- * Lab 1
+ * Lab 2
  * --------------
  * Created by: Michael Bernstein
  * Last updated: December 2013
