@@ -1,3 +1,7 @@
+.container {
+	margin-bottom: 2em;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -5,7 +9,7 @@
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/g/1140/283");
+     background: url("http://lorempixel.com/1140/283");
      opacity: 0.2;
      top: 0;
      left: 0;
@@ -15,8 +19,16 @@
      z-index: -1;	
 }
 
+a:hover {
+	text-decoration: none;
+}
+
 .thumbnail .project-title {
 	color: #888899;
+}
+
+.container table {
+	margin-bottom: 1.25em;
 }
 
 .footer p {
