@@ -1,4 +1,4 @@
-lab2
+Lab 2
 ====
 
-Lab 2 for Intro to HCI
+Lab 2 introduces you to static HTML, CSS, and Bootstrap.
