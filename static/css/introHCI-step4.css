@@ -1,0 +1,32 @@
+.project {
+	
+}
+
+.project p {
+	font-weight: bold;
+}
+
+.jumbotron {
+	position: relative;
+	background: none;
+}
+
+.jumbotron:after {
+     content:"";
+     background: url("http://lorempixel.com/1140/283");
+     opacity: 0.2;
+     top: 0;
+     left: 0;
+     bottom: 0;
+     right: 0;
+     position: absolute;
+     z-index: -1;	
+}
+
+.footer p {
+     margin: 0px;
+}
+
+.footer .contact-icon {
+     margin-right: 5px;
+}
