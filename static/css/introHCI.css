@@ -8,3 +8,10 @@
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
 	color: #CC00AA;
 }
+
+.project {
+	margin-left: 20px;
+	background-color: #eeeeee;
+	padding: 20px;
+	width: 525px;
+}
